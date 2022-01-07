@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Seven Wonders of The World, by Jamie Baggott</string>
+    <string name="description">Description</string>
+    <string name="place">Place</string>
+    <string name="welcome">Welcome To The Seven Wonders of The World</string>
+    <string name="welcomeButton">Let\'s Explore!</string>
+    <string name="about">What makes a wonder?</string>
+    <string name="aboutWonders">For something to be considered a Wonder of the World, it has to be iconic; it should symbolize a chapter of human history. The amazing works of art and architecture known as the Seven Wonders of the Ancient World serve as a testament to the ingenuity, imagination and sheer hard work of which human beings are capable. They are also, however, reminders of the human capacity for disagreement, destruction and, possibly, embellishment.</string>
+    <string name="clickLink">Click the link find on the map</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="LocationLink">Link to Location</string>
+    <string name="dark_mode_click_text">Click to switch the app to Dark Mode</string>
+    <string name="light_mode_click_text">Click to switch the app to Light Mode</string>
+    <string name="dark_mode_text_description">This will give the app a grey colour scheme and makes it easier to see for some people as it might be easier on the eyes</string>
+    <string name="light_mode_text_description">This will give the app a white and green colour scheme and makes it more vibrant to show off the colours of the app</string>
+    <string name="home_page">Home Page</string>
+    <string name="about_wonders">About Wonders</string>
+    <string name="app_settings">App Settings</string>
+    <string name="image_of_one_of_the_seven_wonders_of_the_world">Image of one of the Seven Wonders of the World</string>
+    <string name="map_pin_vector">Map Pin vector</string>
+    <string name="link_vector">Link vector</string>
+</resources>
